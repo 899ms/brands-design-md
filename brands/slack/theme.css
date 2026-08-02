@@ -1,0 +1,28 @@
+@import "./variables.css";
+@theme {
+  --color-slack-aubergine: var(--slack-aubergine);
+  --color-slack-deep-plum: var(--slack-deep-plum);
+  --color-slack-purple-haze: var(--slack-purple-haze);
+  --color-slack-lavender-mist: var(--slack-lavender-mist);
+  --color-slack-carbon: var(--slack-carbon);
+  --color-slack-charcoal: var(--slack-charcoal);
+  --color-slack-channel-blue: var(--slack-channel-blue);
+  --color-slack-soft-white: var(--slack-soft-white);
+  --background-image-slack-vivid-violet: var(--slack-vivid-violet);
+  --font-sans: var(--slack-font-body);
+  --font-display: var(--slack-font-display);
+  --text-slack-eyebrow: var(--slack-text-eyebrow);
+  --text-slack-caption: var(--slack-text-caption);
+  --text-slack-body-sm: var(--slack-text-body-sm);
+  --text-slack-body: var(--slack-text-body);
+  --text-slack-subheading: var(--slack-text-subheading);
+  --text-slack-heading-sm: var(--slack-text-heading-sm);
+  --text-slack-heading: var(--slack-text-heading);
+  --text-slack-heading-lg: var(--slack-text-heading-lg);
+  --text-slack-display: var(--slack-text-display);
+  --radius-slack-button: var(--slack-radius-button);
+  --radius-slack-card: var(--slack-radius-card);
+  --radius-slack-pill: var(--slack-radius-pill);
+  --shadow-slack-xl: var(--slack-shadow-xl);
+  --shadow-slack-nav: var(--slack-shadow-subtle-2);
+}

@@ -1,0 +1,40 @@
+@import "./variables.css";
+
+@theme {
+  --color-mistral-parchment: var(--mistral-parchment);
+  --color-mistral-card: var(--mistral-card);
+  --color-mistral-ink: var(--mistral-ink);
+  --color-mistral-carbon: var(--mistral-carbon);
+  --color-mistral-graphite: var(--mistral-graphite);
+  --color-mistral-ember: var(--mistral-ember);
+  --color-mistral-butter: var(--mistral-butter);
+  --color-mistral-honeycomb: var(--mistral-honeycomb);
+  --font-sans: var(--mistral-font-sans);
+  --text-mistral-caption: var(--mistral-text-caption);
+  --text-mistral-body-sm: var(--mistral-text-body-sm);
+  --text-mistral-body: var(--mistral-text-body);
+  --text-mistral-subheading: var(--mistral-text-subheading);
+  --text-mistral-heading-sm: var(--mistral-text-heading-sm);
+  --text-mistral-heading: var(--mistral-text-heading);
+  --text-mistral-heading-lg: var(--mistral-text-heading-lg);
+  --text-mistral-display: var(--mistral-text-display);
+  --spacing-mistral-4: var(--mistral-space-4);
+  --spacing-mistral-8: var(--mistral-space-8);
+  --spacing-mistral-12: var(--mistral-space-12);
+  --spacing-mistral-16: var(--mistral-space-16);
+  --spacing-mistral-20: var(--mistral-space-20);
+  --spacing-mistral-24: var(--mistral-space-24);
+  --spacing-mistral-32: var(--mistral-space-32);
+  --spacing-mistral-36: var(--mistral-space-36);
+  --spacing-mistral-40: var(--mistral-space-40);
+  --spacing-mistral-48: var(--mistral-space-48);
+  --spacing-mistral-64: var(--mistral-space-64);
+  --spacing-mistral-72: var(--mistral-space-72);
+  --spacing-mistral-80: var(--mistral-space-80);
+  --spacing-mistral-100: var(--mistral-space-100);
+  --radius-mistral-button: var(--mistral-radius-button);
+  --radius-mistral-input: var(--mistral-radius-input);
+  --radius-mistral-card: var(--mistral-radius-card);
+  --radius-mistral-pill: var(--mistral-radius-pill);
+  --shadow-mistral-xl: var(--mistral-shadow-xl);
+}
